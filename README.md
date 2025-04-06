@@ -4,7 +4,7 @@ This project dynamically generates user profile cards using JavaScript and a pre
 
 ## 🔍 Demo
 
-![Screenshot](https://your-screenshot-url-if-any)
+![Screenshot](./dynamicLive.png)
 
 ## 🚀 Features
 
